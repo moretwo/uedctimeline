@@ -13,7 +13,8 @@
 #bgimg-13 {background: url(../img/cv/d-ydipad.jpg) #343434 center no-repeat;background-size: 90%;}
 #bgimg-14 {background: url(../img/cv/yxp-mm.png) #343434 center no-repeat;background-size: 90%;}
 #bgimg-wyzyx {background: url(../img/cv/hp-vitaverde_w960.jpg) #343434 center no-repeat;background-size: 100%;}
-	
+
+#bgimg-yx-010 {background: url(../img/cv/hp-vemac_w960.jpg) #343434 center no-repeat;background-size: 100%;}
 /*2014.10 素材*/	
 #bgimg-141001 {background: url(../img/cv/img-banner.jpg) #efefef center no-repeat;background-size: 90%;}
 #bgimg-141002 {background: url(../img/cv/img20141002.jpg) #efefef center no-repeat;background-size: 90%;}	
@@ -26,10 +27,15 @@
 #bgimg-141009 {background: url(../img/cv/img20141009.jpg) #f2f2f2 center no-repeat;background-size: 100%;}
 #bgimg-141010 {background: url(../img/cv/yyd-az.jpg) #363636 center no-repeat;background-size: 100%;}
 
-
-
-
-
+#bgimg-141011 {background: url(../img/cv/img20141011.jpg) #fff center no-repeat;background-size: 100%;}
+#bgimg-141012 {background: url(../img/cv/img20141012.jpg) #f2f2f2 center no-repeat;background-size: 100%;}
+#bgimg-141013 {background: url(../img/cv/img20141013.jpg) #f2f2f2 center no-repeat;background-size: 100%;}
+#bgimg-141014 {background: url(../img/cv/img20141014.jpg) #f2f2f2 center no-repeat;background-size: 100%;}
+#bgimg-141015 {background: url(../img/cv/img20141015.jpg) #f2f2f2 center no-repeat;background-size: 100%;}
+#bgimg-141016 {background: url(../img/cv/img20141016.png) #f2f2f2 center no-repeat;background-size: 100%;}
+#bgimg-141017 {background: url(../img/cv/img20141017.jpg) #f9f9f9 center no-repeat;background-size: 100%;}
+#bgimg-141018 {background: url(../img/cv/img20141018.jpg) #363636 center no-repeat;background-size: 100%;}
+#bgimg-141019 {background: url(../img/cv/img20141019.jpg) #27333d center no-repeat;background-size: 100%;}
 	
 .timeline-circle-big, .timeline-circle-small {-webkit-user-select: none;-khtml-user-select: none;-moz-user-select: none;-o-user-select: none;user-select: none}
 .timeline-circle-small {position: absolute;left: -24px;width: 48px;height: 48px;padding-top: 0.62em;border-radius: 50%;border: 1px solid #333;background-color: #fcfcfc;text-align: center;z-index: 9}
@@ -178,7 +184,7 @@ section.about .timeline-circle-small:before {-ms-filter: "progid:DXImageTransfor
 #bgimage-t-p2 {background-image: url("../img/cv/c2.jpg")}
 #bgimage-t-reise {background-image: url("../img/cv/c3-w7.jpg")}
 #bgimage-t-store {background-image: url("../img/cv/t-store_w767.jpg")}
-#bgimage-t-guide {background-image: url("../img/cv/t-guide_w768.jpg")}
+#bgimage-t-guide {background-image: url("../img/cv/t-guide_w768.jpg");background-size: 100%;}
 #bgimage-hp-dctpart {background-image: url("../img/cv/hp-dctp-art_w767.jpg")}
 #bgimage-hp-dctpdvd {background-image: url("../img/cv/hp-dctpdvd_w767.jpg")}
 #bgimage-kisd-diploma {background-image: url("../img/cv/kisd-diploma_w767.jpg")}
@@ -189,22 +195,40 @@ section.about .timeline-circle-small:before {-ms-filter: "progid:DXImageTransfor
 #bgimg-4 {background: url(../img/cv/c3-tuan-w7.jpg) #FFF center no-repeat;background-size: 100%;}
 #bgimg-6 {background: url(../img/cv/c5-uedc-w7.jpg) #FFF center no-repeat;background-size: 100%;}
 #bgimg-5 {background: url(../img/cv/c4-meitu-w7.jpg) #FFF center no-repeat;background-size: 100%;}
-#bgimg-7 {background: url(../img/cv/d-q1.jpg) #343434 center no-repeat;background-size: 80%;}
+#bgimg-7 {background: url(../img/cv/d-q1-w7.jpg) #343434 center no-repeat;background-size: 80%;}
 #bgimg-7a {background: url(../img/cv/d2-q1.jpg) #fff center no-repeat;background-size: 90%;}
 #bgimg-8 {background: url(../img/cv/d-q2.jpg) #343434 center no-repeat;background-size: 80%;}
-#bgimg-9 {background: url(../img/cv/d-q3-wyyx.png) #343434 center no-repeat;background-size: 90%;}
+#bgimg-9 {background: url(../img/cv/d-q3-wyyx-w7.jpg) #343434 center no-repeat;background-size: 100%;}
 #bgimg-9a {background: url(../img/cv/d-yypc.png) #fff center no-repeat;background-size: 90%;}
 #bgimg-10 {background: url(../img/cv/d-mail.png) #7ecef4 center no-repeat;background-size: 90%;}
 #bgimg-11 {background: url(../img/cv/d-lofterart-w7.jpg) center no-repeat;background-size: 100%;}
 #bgimg-12 {background: url(../img/cv/d-lcam-w7.jpg) #343434 center no-repeat;background-size: 100%;}
 #bgimg-13 {background: url(../img/cv/d-ydipad.png) #343434 center no-repeat;background-size: 100%;}
-#bgimg-14 {background: url(../img/cv/yxp-mm-w7.jpg) #343434 center no-repeat;background-size: 100%;}}
+#bgimg-14 {background: url(../img/cv/yxp-mm-w7.jpg) #343434 center no-repeat;background-size: 100%;}
 
-@media only screen and (max-width: 767px) and (-webkit-min-device-pixel-ratio: 2), only screen and (max-width: 767px) and (min--moz-device-pixel-ratio: 2), only screen and (max-width: 767px) and (-moz-min-device-pixel-ratio: 2), only screen and (max-width: 767px) and (-o-min-device-pixel-ratio: 2 / 1), only screen and (max-width: 767px) and (min-device-pixel-ratio: 2), only screen and (max-width: 767px) and (min-resolution: 192dpi), only screen and (max-width: 767px) and (min-resolution: 2dppx) {#bgimage-t-landingpage {background-image: none}
-#bgimage-t-reise {background-image: url("../img/cv/c3.jpg")}
-#bgimage-t-store {background-image: url("../img/cv/t-store_w767_2x.jpg")}
-#bgimage-t-guide {background-image: url("../img/cv/t-guide_w960.jpg")}
+/*2014.10 素材*/	
+#bgimg-141001 {background: url(../img/cv/img-banner-w7.jpg) #efefef center no-repeat;background-size: 90%;}
+#bgimg-141002 {background: url(../img/cv/img20141002-w7.jpg) #efefef center no-repeat;background-size: 90%;}	
+#bgimg-141003 {background: url(../img/cv/img20141003-w7.jpg) #efefef center no-repeat;background-size: 90%;}
+#bgimg-141004 {background: url(../img/cv/img20141004-w7.jpg) #f2f2f2 center no-repeat;background-size: 100%;}
+#bgimg-141005 {background: url(../img/cv/img20141005-w7.jpg) #f2f2f2 center no-repeat;background-size: 100%;}
+#bgimg-141006 {background: url(../img/cv/img20141006-w7.jpg) #f2f2f2 center no-repeat;background-size: 100%;}
+#bgimg-141007 {background: url(../img/cv/img20141007-w7.jpg) #f2f2f2 center no-repeat;background-size: 100%;}
+#bgimg-141008 {background: url(../img/cv/img20141008-w7.jpg) #f2f2f2 center no-repeat;background-size: 100%;}
+#bgimg-141009 {background: url(../img/cv/img20141009-w7.jpg) #f2f2f2 center no-repeat;background-size: 100%;}
+#bgimg-141010 {background: url(../img/cv/yyd-az-w7.jpg) #363636 center no-repeat;background-size: 100%;}
 
+#bgimg-141011 {background: url(../img/cv/img20141011-w7.jpg) #fff center no-repeat;background-size: 100%;}
+#bgimg-141012 {background: url(../img/cv/img20141012-w7.jpg) #f2f2f2 center no-repeat;background-size: 100%;}
+#bgimg-141013 {background: url(../img/cv/img20141013-w7.jpg) #f2f2f2 center no-repeat;background-size: 100%;}
+#bgimg-141014 {background: url(../img/cv/img20141014-w7.jpg) #f2f2f2 center no-repeat;background-size: 100%;}
+#bgimg-141015 {background: url(../img/cv/img20141015-w7.jpg) #f2f2f2 center no-repeat;background-size: 100%;}
+#bgimg-141016 {background: url(../img/cv/img20141016-w7.jpg) #f2f2f2 center no-repeat;background-size: 100%;}
+#bgimg-141017 {background: url(../img/cv/img20141017-w7.jpg) #f9f9f9 center no-repeat;background-size: 100%;}
+#bgimg-141018 {background: url(../img/cv/img20141018-w7.jpg) #363636 center no-repeat;background-size: 100%;}
+#bgimg-141019 {background: url(../img/cv/img20141019-w7.jpg) #27333d center no-repeat;background-size: 100%;}
+
+}
 
 
 
